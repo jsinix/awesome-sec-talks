@@ -98,6 +98,10 @@ Conference | Location | Date
 * [RSA Keynotes, Lectures, and Sessions](https://www.youtube.com/user/RSAConference/playlists)
 * [Cisco Live – Requires a CCO login but has most videos from Cisco Live events.](https://www.ciscolive.com/)
 
+## Scripted download
+These sec-talk videos can be download using this script
+https://github.com/jsinix/scripts/tree/master/secVideoDownload
+
 ## Contributing
 
 For any missing conference, create a pull request and we will add it there. 
